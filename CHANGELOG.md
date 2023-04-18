@@ -1,0 +1,6 @@
+- added user permisions
+- added admin permissions
+- added roles and super admin migrations
+- added constructor for User
+- base-application setup complete
+- Initial commit
